@@ -11,15 +11,12 @@
   <img src="https://komarev.com/ghpvc/?username=aicha-chadli&label=Profile%20views&color=0e75b6&style=flat" alt="aicha-chadli" /> 
 </p>
 
-- 🔭 I’m currently working on **Pyt🐍 Python Enthusiast in the Making | 🚀 Shaping My Future One Line of Code at a Time | 🌟 Turning Dreams into Python Projects**
-
-- 🌱 I’m currently learning **🚀 Aspiring IT Pro | 🌱 Growing Skills, Inside and Out | 💬 Soft Skills in the Spotlight**
-
+### About Me
+- 🚀 **I’m currently working on**: **Pyt🐍** Python Enthusiast in the Making | **🌱** Shaping My Future One Line of Code at a Time | **🌟** Turning Dreams into Python Projects
+- 🌱 **I’m currently learning**: **🚀 Aspiring IT Pro** | **🌱** Growing Skills, Inside and Out | **💬** Soft Skills in the Spotlight
 - 👨‍💻 All of my projects are available at [aicha-chadli](aicha-chadli)
-
-- 📫 How to reach me **aicha.chadli@laplateforme.io**
-
-- ⚡ Fun fact **🤫 Shy at First, but Stick Around—I’m a Gentle Soul in Disguise! 🌟**
+- 📫 **How to reach me**: **aicha.chadli@laplateforme.io**
+- ⚡ **Fun fact**: **🤫 Shy at First, but Stick Around—I’m a Gentle Soul in Disguise! 🌟**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
